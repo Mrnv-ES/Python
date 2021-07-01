@@ -1,0 +1,16 @@
+CRITICAL client_log_config.py 2021-07-01 15:45:21,238 Критическая ошибка
+ERROR client_log_config.py 2021-07-01 15:45:21,238 Ошибка
+INFO client_log_config.py 2021-07-01 15:45:21,238 Информационное сообщение
+DEBUG client_log_config.py 2021-07-01 15:45:21,238 Отладочная информация
+CRITICAL client_log_config.py 2021-07-01 15:46:31,128 Критическая ошибка
+ERROR client_log_config.py 2021-07-01 15:46:31,128 Ошибка
+INFO client_log_config.py 2021-07-01 15:46:31,128 Информационное сообщение
+DEBUG client_log_config.py 2021-07-01 15:46:31,128 Отладочная информация
+CRITICAL client_log_config.py 2021-07-01 15:50:45,223 Критическая ошибка
+ERROR client_log_config.py 2021-07-01 15:50:45,241 Ошибка
+INFO client_log_config.py 2021-07-01 15:50:45,241 Информационное сообщение
+DEBUG client_log_config.py 2021-07-01 15:50:45,241 Отладочная информация
+CRITICAL client_log_config.py 2021-07-01 15:56:55,168 Критическая ошибка
+ERROR client_log_config.py 2021-07-01 15:56:55,168 Ошибка
+INFO client_log_config.py 2021-07-01 15:56:55,168 Информационное сообщение
+DEBUG client_log_config.py 2021-07-01 15:56:55,168 Отладочная информация

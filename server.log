@@ -1,0 +1,16 @@
+CRITICAL server_log_config.py 2021-07-01 15:45:23,968 Критическая ошибка
+ERROR server_log_config.py 2021-07-01 15:45:23,968 Ошибка
+INFO server_log_config.py 2021-07-01 15:45:23,968 Информационное сообщение
+DEBUG server_log_config.py 2021-07-01 15:45:23,968 Отладочная информация
+CRITICAL server_log_config.py 2021-07-01 15:46:33,731 Критическая ошибка
+ERROR server_log_config.py 2021-07-01 15:46:33,732 Ошибка
+INFO server_log_config.py 2021-07-01 15:46:33,732 Информационное сообщение
+DEBUG server_log_config.py 2021-07-01 15:46:33,732 Отладочная информация
+CRITICAL server_log_config.py 2021-07-01 15:50:41,585 Критическая ошибка
+ERROR server_log_config.py 2021-07-01 15:50:41,586 Ошибка
+INFO server_log_config.py 2021-07-01 15:50:41,586 Информационное сообщение
+DEBUG server_log_config.py 2021-07-01 15:50:41,586 Отладочная информация
+CRITICAL server_log_config.py 2021-07-01 15:57:06,845 Критическая ошибка
+ERROR server_log_config.py 2021-07-01 15:57:06,845 Ошибка
+INFO server_log_config.py 2021-07-01 15:57:06,845 Информационное сообщение
+DEBUG server_log_config.py 2021-07-01 15:57:06,845 Отладочная информация
