@@ -1,0 +1,15 @@
+CRITICAL server_log_config.py 2021-07-08 12:39:04,200 Критическая ошибка
+ERROR server_log_config.py 2021-07-08 12:39:07,112 Ошибка
+INFO server_log_config.py 2021-07-08 12:39:07,113 Информационное сообщение
+DEBUG server_log_config.py 2021-07-08 12:39:07,114 Отладочная информация
+CRITICAL server_log_config.py 2021-07-08 12:40:34,386 Критическая ошибка
+ERROR server_log_config.py 2021-07-08 12:40:34,387 Ошибка
+INFO server_log_config.py 2021-07-08 12:40:34,387 Информационное сообщение
+DEBUG server_log_config.py 2021-07-08 12:40:34,387 Отладочная информация
+INFO server.py 2021-07-08 12:47:27,094 Сервер запущен на порту 7777 по адресу 
+INFO server.py 2021-07-08 12:47:29,652 Ответ от сервера успешно получен
+INFO dec.py 2021-07-08 12:47:29,677 Функция manage_msg была вызвана из функции main
+CRITICAL server_log_config.py 2021-07-08 12:47:35,140 Критическая ошибка
+ERROR server_log_config.py 2021-07-08 12:47:35,140 Ошибка
+INFO server_log_config.py 2021-07-08 12:47:35,140 Информационное сообщение
+DEBUG server_log_config.py 2021-07-08 12:47:35,141 Отладочная информация

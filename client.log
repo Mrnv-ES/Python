@@ -1,0 +1,29 @@
+CRITICAL client_log_config.py 2021-07-08 12:39:07,552 Критическая ошибка
+ERROR client_log_config.py 2021-07-08 12:39:07,553 Ошибка
+INFO client_log_config.py 2021-07-08 12:39:07,553 Информационное сообщение
+DEBUG client_log_config.py 2021-07-08 12:39:07,553 Отладочная информация
+CRITICAL client_log_config.py 2021-07-08 12:39:37,922 Критическая ошибка
+ERROR client_log_config.py 2021-07-08 12:39:37,923 Ошибка
+INFO client_log_config.py 2021-07-08 12:39:37,923 Информационное сообщение
+DEBUG client_log_config.py 2021-07-08 12:39:37,923 Отладочная информация
+CRITICAL client_log_config.py 2021-07-08 12:39:44,046 Критическая ошибка
+ERROR client_log_config.py 2021-07-08 12:39:44,046 Ошибка
+INFO client_log_config.py 2021-07-08 12:39:44,046 Информационное сообщение
+DEBUG client_log_config.py 2021-07-08 12:39:44,046 Отладочная информация
+CRITICAL client_log_config.py 2021-07-08 12:40:28,996 Критическая ошибка
+ERROR client_log_config.py 2021-07-08 12:40:28,996 Ошибка
+INFO client_log_config.py 2021-07-08 12:40:28,996 Информационное сообщение
+DEBUG client_log_config.py 2021-07-08 12:40:28,997 Отладочная информация
+WARNING client.py 2021-07-08 12:47:29,634 Порт и адрес были заданы неверно, поэтому были установлены дефолтные значения
+INFO client.py 2021-07-08 12:47:29,635 Сообщение для отправки на сервер
+INFO dec.py 2021-07-08 12:47:29,651 Функция make_presence_msg была вызвана из функции main
+INFO client.py 2021-07-08 12:47:29,652 Отправка сообщения серверу
+INFO client.py 2021-07-08 12:47:29,677 Обработка сообщения от сервера
+INFO client.py 2021-07-08 12:47:29,677 Обработка сообщения от сервера успешно завершена
+INFO dec.py 2021-07-08 12:47:29,679 Функция manage_response была вызвана из функции main
+DEBUG client.py 2021-07-08 12:47:29,679 Ответ от сервера: {'response': 200}
+INFO client.py 2021-07-08 12:47:29,679 Обработанный ответ от сервера: 200 : Ok
+CRITICAL client_log_config.py 2021-07-08 12:47:38,181 Критическая ошибка
+ERROR client_log_config.py 2021-07-08 12:47:38,181 Ошибка
+INFO client_log_config.py 2021-07-08 12:47:38,182 Информационное сообщение
+DEBUG client_log_config.py 2021-07-08 12:47:38,182 Отладочная информация
